@@ -1,0 +1,2 @@
+# ban.js
+voteban
